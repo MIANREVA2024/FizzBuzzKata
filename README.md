@@ -1,5 +1,4 @@
 # FIZZBUZZ
-
 ## Descripción
 
 Creación de una Kata o código de Kata donde nos va a ayudar a conocer los principios básicos 
