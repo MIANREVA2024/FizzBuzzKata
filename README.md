@@ -12,17 +12,14 @@ de un lenguaje y cómo hacer test automáticos.
 - Git Hub
 - TDD.
 - Descargar dependencias.
-
 ## Uso
 
 Escribiremos un codigo donde crearemos una funcion, una clase y que con un parametro que reciba un numero
-del 1 al 100 y aplicando normas nos devuelva el dato solicitado
-
-![alt text](Fizzbuzz.png)
+del 1 al 100 y aplicando normas nos devuelva el dato solicitado.
 
 ## Características
 - Test múltiplo de tres: Nos va a devolver un string: `Fizz` si el número que ingresamos al 
-codigo es multiplo de 3, caso contrario nos devolveria el mismo número ingresado
+codigo es multiplo de 3, caso contrario nos devolveria el mismo número ingresado.
 
 - Test múltiplo de cinco: Nos va a devolver un string: `Buzz` si el número que ingresamos al
   codigo es multiplo de 5, caso contrario nos devolveria el mismo número ingresado.

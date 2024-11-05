@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a726b869-6c96-4db7-8c22-5cb90aec3ba0" name="Changes" comment="" />
+    <list default="true" id="a726b869-6c96-4db7-8c22-5cb90aec3ba0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,26 +45,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.FizzbuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3_return.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3and5_return.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy5_return.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.org.vir in FizzBuzzKata.executor&quot;: &quot;Coverage&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/factoriaf5/Escritorio/Miguel/FizzBuzzKata/src/main/java/org/vir/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.FizzbuzzTest.executor": "Run",
+    "JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3_return.executor": "Run",
+    "JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3and5_return.executor": "Run",
+    "JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy5_return.executor": "Run",
+    "JUnit.org.vir in FizzBuzzKata.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/factoriaf5/Escritorio/Miguel/FizzBuzzKata/src/main/java/org/vir/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3_return">
+}]]></component>
+  <component name="RunManager" selected="JUnit.FizzbuzzTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vir.Main" />
+      <module name="FizzBuzzKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzbuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzzKata" />
       <option name="PACKAGE_NAME" value="" />
@@ -102,27 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.vir in FizzBuzzKata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FizzBuzzKata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vir.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.vir" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3_return" />
         <item itemvalue="JUnit.FizzbuzzTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3_return" />
         <item itemvalue="JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy3and5_return" />
         <item itemvalue="JUnit.FizzbuzzTest.test_WhenTheNumberIsDivisibleBy5_return" />
-        <item itemvalue="JUnit.org.vir in FizzBuzzKata" />
       </list>
     </recent_temporary>
   </component>
@@ -150,23 +152,12 @@
       <workItem from="1730792261734" duration="15178000" />
       <workItem from="1730833219775" duration="430000" />
       <workItem from="1730833837653" duration="2960000" />
-      <workItem from="1730839050884" duration="1508000" />
+      <workItem from="1730839050884" duration="2053000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/vir/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FizzBuzzKata$org_vir_in_FizzBuzzKata.ic" NAME="org.vir in FizzBuzzKata Coverage Results" MODIFIED="1730734390979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
