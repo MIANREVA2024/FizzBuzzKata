@@ -47,5 +47,5 @@ public class FizzbuzzTest {
         assertEquals( "FizzBuzz" , result2);
     }
 
-
+// ejercicio terminado
 }
